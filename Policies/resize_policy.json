@@ -1,0 +1,17 @@
+{
+	"Version": "2012-10-17",
+	"Statement": [
+		{
+			"Sid": "S3Read",
+			"Effect": "Allow",
+			"Action": "s3:GetObject",
+			"Resource": "arn:aws:s3:::image-bucket-bilal/uploads/*"
+		},
+		{
+			"Sid": "S3Write",
+			"Effect": "Allow",
+			"Action": "s3:PutObject",
+			"Resource": "arn:aws:s3:::image-bucket-bilal/resized/*"
+		}
+	]
+}
