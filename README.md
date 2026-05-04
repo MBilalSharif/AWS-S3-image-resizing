@@ -36,14 +36,18 @@ s3:PutObject → Save resized images
 
 No unnecessary permissions are granted, following AWS security best practices.
 
-📂 Project Structure
+📂 **Project Structure**
+
+```
 AWS-S3-image-resizing/
 │
 ├── lambda_function.py      # Main Lambda function (image resizing logic)
 ├── requirements.txt        # Python dependencies
-├── iam-policy.json        # IAM role permissions (least privilege)
-├── event.json             # Sample S3 event for testing
-├── README.md              # Project documentation
+├── iam-policy.json         # IAM role permissions (least privilege)
+├── event.json              # Sample S3 event for testing
+├── README.md               # Project documentation
+```
+
 
 # 🔄 Workflow
 User uploads image to S3 uploads/ folder
