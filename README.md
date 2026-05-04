@@ -75,6 +75,7 @@ S3 event triggers
 IAM security best practices
 Scheduled automation using EventBridge
 Real-world cloud cost optimization techniques
+<img width="870" height="373" alt="image" src="https://github.com/user-attachments/assets/53f9dac9-6852-4026-849a-4f24986084eb" />
 
 <img width="1357" height="403" alt="image" src="https://github.com/user-attachments/assets/0fcb2a97-e7de-413d-b81a-8dbf84311e5f" />
 <img width="1354" height="530" alt="image" src="https://github.com/user-attachments/assets/924506a3-964b-4e4b-87f4-197dc8f015d6" />
