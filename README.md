@@ -12,6 +12,9 @@ Processing → Image resizing using Python (Pillow)
 Output → S3 resized/ folder
 Cleanup → EventBridge scheduled Lambda (temporary cron job)
 
+<img width="700" height="480" alt="image" src="https://github.com/user-attachments/assets/d21b2c52-4fb6-4ca3-907b-ae92691be30f" />
+
+
 # 🧰 Tech Stack
 AWS Lambda
 Amazon S3
