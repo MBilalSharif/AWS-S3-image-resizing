@@ -44,7 +44,6 @@ AWS-S3-image-resizing/
 ├── lambda_function.py      # Main Lambda function (image resizing logic)
 ├── requirements.txt        # Python dependencies
 ├── iam-policy.json         # IAM role permissions (least privilege)
-├── event.json              # Sample S3 event for testing
 ├── README.md               # Project documentation
 ```
 
